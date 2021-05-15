@@ -2,3 +2,6 @@ name = "Spral"
 uuid = "c444c04e-f04f-4a02-b299-6f73ce9dfa5c"
 authors = ["Alexis Montoison <alexis.montoison@polymtl.ca>"]
 version = "0.1.0"
+
+[deps]
+SPRAL_jll = "319450e9-13b8-58e8-aa9f-8fd1420848ab"
