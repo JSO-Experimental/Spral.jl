@@ -1,0 +1,4 @@
+name = "Spral"
+uuid = "c444c04e-f04f-4a02-b299-6f73ce9dfa5c"
+authors = ["Alexis Montoison <alexis.montoison@polymtl.ca>"]
+version = "0.1.0"
